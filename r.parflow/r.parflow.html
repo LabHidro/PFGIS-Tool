@@ -1,0 +1,18 @@
+<h2>DESCRIPTION</h2>
+
+<em>r.parflow</em> This tool provides data pre-processing for the ParFlow model. It creates solid geometries (i.e., .pfsol and .vtk files) for orthogonal grid (OG) and The terrain following grid  (TFG) formats, necessary for defining the computational domain and identifying the faces for application of initial and boundary conditions in the ParFlow model. It also carries out the main preprocessing of topographic data and creates a simple script for executing ParFlow. We use the solid file creation code available in the "PFTools" library of ParFlow to add a new functionality in solid creation which makes it easier to define a "patch" of initial and boundary conditions in heterogeneous regions on the upper surface of the computational domain that is useful for representing lake water level (pressure heads) or known pressures on the drainage network. It is also possible to create multiple solid files to define specific regions in the computational domain, allowing the assignment of different physical properties in heterogeneous domains.
+
+<h2>SEE ALSO</h2>
+
+<em>
+<a href="r.parflow.solids.html">r.parflow.solids</a>,
+<a href="r.parflow.subsurfacedepth.html">r.parflow.subsurfacedepth</a>,
+<a href="r.parflow.writepfb.html">r.parflow.writepfb</a>
+</em>
+
+
+<h2>AUTHOR</h2>
+
+Tomas Carlotto
+
+<p><i>Last changed: $Date: 2023-05-15 19:18:00$</i>
