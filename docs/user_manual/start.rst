@@ -76,6 +76,10 @@ It is necessary to edit the Makefile file of the raster folder
 		r.parflow \
 		r.basins.fill \
 		r.buffer \
+		.
+		.
+		.
+
 
 3 - Save the changes and close the file.
 
