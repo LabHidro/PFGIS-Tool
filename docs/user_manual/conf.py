@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'PFGIS-Tool'
-copyright = '2021, Tomas'
+copyright = '2023, Tomas'
 author = 'Tomas Carlotto'
 
 release = '1.0'
