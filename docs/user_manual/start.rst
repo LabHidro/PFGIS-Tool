@@ -67,6 +67,7 @@ Install PFGIS-Tool
 It is necessary to edit the Makefile file of the raster folder
 
 1 - Open the Makefile file in the text editor
+
 2 - Add r.parflow to the list of subdirectories (SUBDIRS). The script part will look like this:
 
 .. code-block:: console
@@ -151,13 +152,13 @@ And the files created with the "configuration" from previous compilations with:
 Starting a project in GRASS GIS
 -------------------------------
 
-To run de example,
-you can use the ``grass`` function:
+To open GRASS-GIS via the terminal, use the following command:
 
 .. code-block:: console
 
    grass
 
+Under development ...
 
 Starting PFGIS-Tool modules
 ---------------------------
