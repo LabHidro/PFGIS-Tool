@@ -31,7 +31,7 @@ Install further compilation dependencies:
    libglu1-mesa-dev libxmu-dev \
    ghostscript wget -y
 
-For NVIZ on Ubuntu
+For NVIZ on Ubuntu:
 
 .. code-block:: console
    
@@ -42,13 +42,13 @@ For NVIZ on Ubuntu
    libxmu-dev \
    libavformat-dev libswscale-dev
 
-Install git
+Install git:
 
 .. code-block:: console
 
    sudo apt install git
    
-Download of the current version of the GRASS GIS from GitHub
+Download of the current version of the GRASS GIS from GitHub:
 
 .. code-block:: console
 
@@ -56,7 +56,7 @@ Download of the current version of the GRASS GIS from GitHub
    cd grass-8.2.0.latest.git/
    git checkout releasebranch_8_2
    
-Install PFGIS-Tool
+Install PFGIS-Tool:
 
 .. code-block:: console
 
@@ -64,11 +64,11 @@ Install PFGIS-Tool
    git clone https://github.com/LabHidro/PFGIS-Tool.git
    mv PFGIS-Tool r.parflow
 
-It is necessary to edit the Makefile file of the raster folder
+It is necessary to edit the Makefile file of the raster folder. Perform the following steps:
 
 1 - Open the Makefile file in the text editor
 
-2 - Add r.parflow to the list of subdirectories (SUBDIRS). The script part will look like this:
+2 - Add r.parflow to the list of subdirectories (SUBDIRS). The script part will look like this (the three dots indicate that the code continues):
 
 .. code-block:: console
 
