@@ -158,7 +158,8 @@ To open GRASS-GIS via the terminal, use the following command:
 
    grass
 
-Under development ...
+.. note::
+   This section is under development.
 
 Starting PFGIS-Tool modules
 ---------------------------
@@ -181,5 +182,8 @@ Starting PFGIS-Tool modules
 .. code-block:: console
 
    r.parflow.writepfb
+
+.. note::
+   This section is under development.
 
 
