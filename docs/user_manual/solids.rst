@@ -1,8 +1,7 @@
 r.parflow.solids
 ================
-
-.. autosummary::
-   :toctree: generated
+.. note::
+   This project is under active development.
 
    r.parflow.solids
 
