@@ -10,10 +10,9 @@ Welcome to PFGIS-Tool User's Manual!
 
 **Tomas Carlotto** [1]_, **Julian Klaus** [2]_, **Pedro Luiz Borges Chaffe** [3]_
 
-**PFGIS-Tool** is a [...].
+**PFGIS-Tool** ...
 
 .. note::
-
    This project is under active development.
 
 Contents
