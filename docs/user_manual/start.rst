@@ -1,7 +1,7 @@
 Getting Started
 ===============
 
-GRASS GIS and PFGIS-Tool intallation guide
+GRASS GIS and PFGIS-Tool installation guide
 ----------------------------
 
 Install further compilation dependencies:
