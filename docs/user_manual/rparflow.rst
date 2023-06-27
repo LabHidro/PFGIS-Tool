@@ -1,7 +1,7 @@
 r.parflow
 =========
 .. note::
-   This project is under active development.
+   This section is under development.
 
    r.parflow
 
