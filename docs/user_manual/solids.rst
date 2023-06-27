@@ -1,5 +1,5 @@
 r.parflow.solids
-===
+================
 
 .. autosummary::
    :toctree: generated
