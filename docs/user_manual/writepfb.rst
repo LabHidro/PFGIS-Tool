@@ -1,8 +1,8 @@
 r.parflow.writepfb
 ==================
 
-.. autosummary::
-   :toctree: generated
+.. note::
+   This section is under development.
 
    r.parflow.writepfb
 
