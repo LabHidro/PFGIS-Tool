@@ -1,5 +1,5 @@
 r.parflow.writepfb
-===
+==================
 
 .. autosummary::
    :toctree: generated
