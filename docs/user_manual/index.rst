@@ -20,7 +20,10 @@ Contents
 --------
 
 .. toctree::
-   
+   :maxdepth: 2
+   :caption: Contents:
+   :numbered:
+
    intro
    start
    rparflow
