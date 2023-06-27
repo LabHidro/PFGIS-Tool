@@ -1,5 +1,5 @@
 Getting Started
-=====
+===============
 
 GRASS GIS and PFGIS-Tool intallation guide
 ----------------------------
