@@ -15,9 +15,6 @@ Welcome to PFGIS-Tool User's Manual!
 .. note::
    This project is under active development.
 
-Contents
---------
-
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
