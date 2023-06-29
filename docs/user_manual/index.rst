@@ -10,7 +10,7 @@ Welcome to PFGIS-Tool User's Manual!
 
 **Tomas Carlotto** [1]_, **Julian Klaus** [2]_, **Pedro Luiz Borges Chaffe** [3]_
 
-**PFGIS-Tool** ...
+**PFGIS-Tool** provides agility and efficiency in the preprocessing of ParFlow model input files with a friendly graphical user interface. The new module performs: (i) topographic processing; (ii) creation of solid objects that delimit the computational domain and assign face identifiers in an orthogonal or terrain following grid; (iii) creation of files with the terrain slopes in the x and y directions; and (iv) creation of initial and boundary condition files. We provide enhancements that allow modeling of lake catchments with the insertion of multiple boundary conditions into the top face of the computational domain. Other new features allow the estimation of distributed subsurface depths in the catchment and the definition of the bottom boundary of the computational domain based on terrain elevation and slope.
 
 .. note::
    This project is under active development.
