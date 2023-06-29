@@ -9,4 +9,4 @@ ParFlow is an open-source high performance parallel hydrological model designed 
 
 A step by step for installing the PFGIS-Tool are available in the file Install-PFGIS-Tool.txt or in the link: https://pfgis-tool.readthedocs.io/en/latest/start.html
 
-The PFGIS-Tool User's Manual is under development and can be accessed through the link: https://pfgis-tool.readthedocs.io/en/latest/index.html
+The PFGIS-Tool user manual is available at: https://pfgis-tool.readthedocs.io/en/latest/index.html (Under development).
