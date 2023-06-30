@@ -83,13 +83,14 @@ It is necessary to edit the Makefile file of the raster folder. Perform the foll
 
 3 - Save the changes and close the file.
 
-Return to installation directory
+Return to installation directory:
 
 .. code-block:: console
    
    cd ..
    
 Compilation
+
 Now we can compile the source code in order to generate the GRASS GIS binaries.
 "configure" source code for local machine (checks for CPU type etc):
 
@@ -122,19 +123,20 @@ Now we can compile the source code in order to generate the GRASS GIS binaries.
 	  --without-ffmpeg
 
 The more CPUs you have, the higher the -j number may be set to
-here: build using 4 CPU cores
+
+here: build using 4 CPU cores:
 
 .. code-block:: console
 
    make -j4
    
-Install
+Install:
 
 .. code-block:: console
 
    sudo make install
    
-To open GRASS-GIS via the terminal, use the following command
+To open GRASS-GIS via the terminal, use the following command:
 
 .. code-block:: console
 
