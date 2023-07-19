@@ -25,7 +25,7 @@ Install further compilation dependencies:
    libpq-dev \
    libreadline6-dev libfreetype6-dev \
    libfftw3-3 libfftw3-dev \
-   libboost-thread-dev libboost-program-options-dev  libpdal-dev\
+   libboost-thread-dev libboost-program-options-dev  libpdal-dev \
    subversion libzstd-dev \
    checkinstall \
    libglu1-mesa-dev libxmu-dev \
