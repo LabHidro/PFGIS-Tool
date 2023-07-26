@@ -4,6 +4,8 @@ Getting Started
 GRASS GIS and PFGIS-Tool installation guide
 ----------------------------
 
+If you prefer, access the :ref:`Video tutorial`
+
 Install further compilation dependencies:
 
 .. code-block:: console
