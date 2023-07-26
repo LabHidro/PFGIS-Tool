@@ -157,7 +157,7 @@ And the files created with the "configuration" from previous compilations with:
 .. raw:: html
 
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-        <iframe src="https://youtu.be/xMUvwQ_V6MA" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+        <iframe src="https://youtu.be/xMUvwQ_V6MA" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; margin-bottom: 2em;"></iframe>
     </div>
 
 Starting a project in GRASS GIS
