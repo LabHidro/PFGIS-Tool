@@ -167,23 +167,20 @@ Video tutorial - step by step for installing the PFGIS-Tool:
         <iframe width="560" height="315" src="https://www.youtube.com/embed/xMUvwQ_V6MA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>
 
-Starting a project in GRASS GIS
--------------------------------
-
-To open GRASS-GIS via the terminal, use the following command:
-
-.. code-block:: console
-
-   grass
-
-.. note::
-   This section is under development.
-
 Starting PFGIS-Tool modules
 ---------------------------
 
+.. raw:: html
+
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/2Qr8yTfxglA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+
+GRASS GIS console used to call modules and interact via command lines.
+
 .. image:: Fig_console.png
 
+Command for calling the r.parflow module and its submodules.
 
 .. code-block:: console
 
@@ -203,5 +200,18 @@ Starting PFGIS-Tool modules
 
 .. note::
    This section is under development.
+
+Starting a project in GRASS GIS
+-------------------------------
+
+To open GRASS-GIS via the terminal, use the following command:
+
+.. code-block:: console
+
+   grass
+
+.. note::
+   This section is under development.
+
 
 
