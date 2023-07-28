@@ -163,7 +163,7 @@ Video tutorial - step by step for installing the PFGIS-Tool:
 
 .. raw:: html
 
-    <div style="position: relative; margin-bottom: 0; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+    <div style="position: relative; margin-bottom: 0; padding-bottom: 10.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
         <iframe width="560" height="315" src="https://www.youtube.com/embed/xMUvwQ_V6MA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>
 
@@ -172,7 +172,7 @@ Starting PFGIS-Tool modules
 
 .. raw:: html
 
-    <div style="position: relative; margin-bottom: 0; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+    <div style="position: relative; margin-bottom: 0; padding-bottom: 10.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
         <iframe width="560" height="315" src="https://www.youtube.com/embed/2Qr8yTfxglA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>
 
