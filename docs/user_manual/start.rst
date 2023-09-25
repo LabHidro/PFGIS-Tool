@@ -198,9 +198,6 @@ Command for calling the r.parflow module and its submodules.
 
    r.parflow.writepfb
 
-.. note::
-   This section is under development.
-
 Starting a project in GRASS GIS
 -------------------------------
 
