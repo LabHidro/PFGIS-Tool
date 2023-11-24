@@ -158,7 +158,7 @@ And the files created with the "configuration" from previous compilations with:
 
 .. _Video tutorial:
 
-Video tutorial - step by step for installing the PFGIS-Tool:
+Video tutorial - step by step to install the PFGIS-Tool:
 ------------------------------------------------------------
 
 .. raw:: html
