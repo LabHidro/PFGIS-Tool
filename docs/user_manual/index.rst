@@ -22,7 +22,6 @@ A detailed description of PFGIS-Tool functionalities is available at: https://do
    :caption: Contents:
    :numbered:
 
-   intro
    start
    rparflow
    solids
