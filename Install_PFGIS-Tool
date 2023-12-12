@@ -47,8 +47,8 @@ sudo apt install git
 #Download of the current development version from GitHub (adopt the path below accordingly)
 #------------------------------------
 
-git clone https://github.com/OSGeo/grass.git grass-8.2.0.latest.git
-cd grass-8.2.0.latest.git/
+git clone https://github.com/OSGeo/grass.git grass-8.2.latest.git
+cd grass-8.2.latest.git/
 git checkout releasebranch_8_2
 
 #------------------------------------
