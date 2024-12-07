@@ -54,8 +54,8 @@ Download of the current version of the GRASS GIS from GitHub:
 
 .. code-block:: console
 
-   git clone https://github.com/OSGeo/grass.git grass-8.2.latest.git
-   cd grass-8.2.latest.git/
+   git clone https://github.com/OSGeo/grass.git grass-8.2.0.latest.git
+   cd grass-8.2.0.latest.git/
    git checkout releasebranch_8_2
    
 Install PFGIS-Tool:
